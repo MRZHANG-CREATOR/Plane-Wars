@@ -3,6 +3,7 @@ export const game=new Application({
     width:750,
     height:1080,
 })
+// console.log(game)
 document.body.append(game.view)//添加实例
 
 export function getRootContainer(){//导出根容器用于挂载
