@@ -1,4 +1,4 @@
-# plane-wars
+# Plane-Wars
 
 ## Project setup
 ```
